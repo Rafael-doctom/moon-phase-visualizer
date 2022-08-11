@@ -1,1 +1,1 @@
-# moon-phase-visualizer
+# Moon Phase Visualizer
